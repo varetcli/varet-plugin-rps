@@ -163,10 +163,10 @@
   dependencies:
     undici-types "~6.19.8"
 
-"@varet/core@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@varet/core/-/core-0.0.6.tgz#f4c5cb23c02ec8b972d6c7572c789a93f3323118"
-  integrity sha512-qNz7+nRE5MnAj5k4G6+lwJ45C4Rwano16EBcqc+JbW6f5jWU9aejrr/Zx9wLgOVW69v4moTE6k/oWGbRV2VuHQ==
+"@varet/core@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@varet/core/-/core-0.0.7.tgz#2aa53dc2c613f67ace202dff082459b04b7a42d6"
+  integrity sha512-1GMJ+ljSOwKz3ir0FUUT+sXB4VgeB4IkEAKAKUjJWufBk0M8tA8EhRs9cfejk6WXvpxqh1J/HGo+52D97fyYNQ==
   dependencies:
     "@inquirer/prompts" "^7.1.0"
     cfonts "^3.3.0"

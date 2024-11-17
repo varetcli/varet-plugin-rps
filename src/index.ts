@@ -1,7 +1,7 @@
 import { createVaretPlugin, createStep, createJob } from '@varet/core'
 
 import { search } from '@inquirer/prompts'
-import fuzzy from '@varet/core/dist/lib/fuzzy'
+import { fuzzy } from '@varet/core'
 
 const OPTIONS = [
   { value: '🪨 rock' },

@@ -1,7 +1,7 @@
 {
   "name": "@varet/varet-plugin-rps",
   "description": "An example Varet CLI Plugin - Rock Paper Scissors",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "author": {
     "name": "Tarık Yusuf Yıldızcı",
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@inquirer/prompts": "^7.1.0",
-    "@varet/core": "^0.0.6"
+    "@varet/core": "^0.0.7"
   },
   "devDependencies": {
     "@types/node": "^22.9.0",
