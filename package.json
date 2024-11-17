@@ -1,0 +1,29 @@
+{
+  "name": "@varet/varet-plugin-rps",
+  "description": "An example Varet CLI Plugin - Rock Paper Scissors",
+  "version": "0.0.1",
+  "author": {
+    "name": "Tarık Yusuf Yıldızcı",
+    "email": "tarikyyildizci@gmail.com",
+    "url": "https://tarikyildizci.com"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write .",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^7.1.0",
+    "@varet/core": "^0.0.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.6.3"
+  }
+}
